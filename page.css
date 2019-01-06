@@ -1,0 +1,35 @@
+*
+{
+
+	color:#444444;
+	
+}
+
+p
+{
+
+	font-size:18px
+
+}
+
+h1, h2, h3
+{
+	font-size: x-large;
+	font-weight: bold;
+	line-height:1.2
+}
+
+
+*
+{
+ font: Verdana, "Arial", Goergia ,sans-serif;
+ }
+
+ body{
+
+ 	margin:40px auto;
+ 	max-width:650px;
+ 	line-height:1.6;
+ 	padding:010px
+
+ 	}
